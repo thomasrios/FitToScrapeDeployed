@@ -18,7 +18,7 @@ var PORT = process.env.PORT || 3000;
 var app = express();
 
 // Configure middleware
-const Article = require("./models/article2");
+const Article = require("./models/article");
 const Comment = require("./models/comment");
 
 // Use morgan logger for logging requests
