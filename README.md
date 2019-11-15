@@ -12,3 +12,6 @@ This application used HMTL, Javascript, Node.js, MongoDB, and Mongoose.
 ---
 
 Deployed link viewable at https://fittoscrapehwdeploy.herokuapp.com/
+
+![Working display](working.gif)
+
